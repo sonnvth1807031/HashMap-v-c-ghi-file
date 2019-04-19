@@ -1,0 +1,13 @@
+Ngày           Mã video         Tiêu d?         View
+16/4/2019      VID00121         TomJerry01       1000
+16/4/2019      VID00122         TomJerry02       1100
+16/4/2019      VID00123         TomJerry03       1200
+17/4/2019      VID00124         TomJerry04       1300
+17/4/2019      VID00121         TomJerry05       1400
+17/4/2019      VID00122         TomJerry06       1500
+17/4/2019      VID00123         TomJerry07       1600
+18/4/2019      VID00114         TomJerry08       1700
+18/4/2019      VID00115         TomJerry09       1800
+18/4/2019      VID00116         TomJerry10       1900
+18/4/2019      VID00116         TomJerry11       2000
+
